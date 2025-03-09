@@ -1,2 +1,4 @@
 # Machine-Learning-student-score-prestation
-ML Regression SS-P
+ML Regression jam belajar ke score/prestasi
+linier regression
+korelasi matrix
